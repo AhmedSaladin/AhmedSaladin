@@ -18,6 +18,10 @@ Hi, I'm [Ahmed Saladin](https://www.linkedin.com/in/ahmedsaladin/), a passionate
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="25"></code>
 
+<img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaladin&layout=compact"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=ahmedsaladin&show_icons=true"/>
+
+
 
 
 
