@@ -1,3 +1,9 @@
+### Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+I'm [Ahmed Saladin](https://www.linkedin.com/in/ahmedsaladin/), a full stack developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+- 💬 Ask me about anything, I am happy to help
+### Tools & Technologies
 ![express](https://img.shields.io/badge/express-20232A?style=social&logo=express&logoColor=3C823B)
 ![node.js](https://img.shields.io/badge/Node.js-20232A?style=social&logo=node.js&logoColor=3C823B)
 ![react](https://img.shields.io/badge/React-20232A?style=social&logo=react&logoColor=61DAFB)
@@ -19,14 +25,6 @@
 ![azure](https://img.shields.io/badge/Microsoft_Azure-20232A?style=social&logo=microsoft-azure&logoColor=0078D7)
 ![python](https://img.shields.io/badge/Python-20232A?style=social&logo=python&logoColor=3776AB)
 ![c++](https://img.shields.io/badge/C%2B%2B-20232A?style=social&logo=c%2B%2B&logoColor=00599C)
-
-
-
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-Hi, I'm [Ahmed Saladin](https://www.linkedin.com/in/ahmedsaladin/), a full stack developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-- 💬 Ask me about anything, I am happy to help
 
 <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaladin&layout=compact"/>
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=ahmedsaladin&show_icons=true"/>
