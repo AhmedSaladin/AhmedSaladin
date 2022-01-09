@@ -1,9 +1,10 @@
 ### Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm [Ahmed Saladin](https://www.linkedin.com/in/ahmedsaladin/) a full stack developer, my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm [Ahmed Saladin](https://www.linkedin.com/in/ahmedsaladin/) a full stack developer, my passion for software lies in how dreams can be true. I take great care in the user experience, architecture, and code quality of the things I build.
 
 - 💬 Ask me about anything, I am happy to help
 ### Tools & Technologies
+![nest](https://img.shields.io/badge/Nest-20232A?style=social&logo=nestjs&logoColor=DD0031)
 ![express](https://img.shields.io/badge/express-20232A?style=social&logo=express&logoColor=3C823B)
 ![node.js](https://img.shields.io/badge/Node.js-20232A?style=social&logo=node.js&logoColor=3C823B)
 ![react](https://img.shields.io/badge/React-20232A?style=social&logo=react&logoColor=61DAFB)
