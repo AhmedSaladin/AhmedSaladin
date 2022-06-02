@@ -1,4 +1,4 @@
-### Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there,
 
 I'm [Ahmed Saladin](https://www.linkedin.com/in/ahmedsaladin/) a full stack developer, my passion for software lies in how dreams can be true. I take great care in the user experience, architecture, and code quality of the things I build.
 
